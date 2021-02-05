@@ -1,4 +1,4 @@
-# RBE - Red BIOS Editor
+# RBE - Red BIOS Editor 1.0.6
 
 ![1](https://sun1-29.userapi.com/impg/uae6XN0pBQwWcv26zXzmp_I9FhvvHYf2f0xUGw/Se2qtBEzIx8.jpg?size=776x436&quality=96&proxy=1&sign=a9c311f9191eabafb4982b461f754c1f&type=album)
 
